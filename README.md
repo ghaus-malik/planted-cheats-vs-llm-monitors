@@ -101,6 +101,6 @@ Companion project: `minimal-triggers-for-monitor-flags` reduces the flagged item
   author = {Muhammad Ghaus Malik},
   title  = {Planted Cheats vs. LLM Monitors: What a Monitor Misses, and How Little Disguise It Takes},
   year   = {2026},
-  note   = {Pilot study, code and data}
+  note   = {Code and data}
 }
 ```
